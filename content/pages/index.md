@@ -286,7 +286,7 @@ sections:
         justifyContent: center
         borderRadius: none
         borderWidth: 1
-        borderStyle: none
+        borderStyle: double
         borderColor: border-dark
       title:
         fontWeight: 700
